@@ -576,6 +576,7 @@ footer{
 	background-color: blueviolet;
 	margin-top: 40px;
 	display: flex;
+	width: 100%
 }
 .foot{
 	/* border: 1px solid yellow; */
