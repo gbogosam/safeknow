@@ -625,7 +625,7 @@ footer{
 	text-align: center;
 	line-height: 30px;
 }
-@media all and (min-width: 400px){
+@media all and (min-width: 500px){
 *{
 	padding: 0;
 	margin: 0;
@@ -1225,7 +1225,7 @@ footer{
 	line-height: 30px;
 }
 }
-@media all and (max-width: 400px) {
+@media all and (max-width: 500px) {
 	.navbar{
 		width: auto;
 		/* border: 1px solid black; */
